@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn_minus {
+    width: 25px;
+    height: 25px;
+    border-radius: 30%;
+    background-color: red;
+    text-align: center;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.btn_plus {
+    width: 25px;
+    height: 25px;
+    border-radius: 30%;
+    background-color: green;
+    text-align: center;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.btn_reset {
+    width: 100px;
+    height: 25px;
+    border-radius: 5%;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
